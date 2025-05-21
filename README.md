@@ -13,7 +13,7 @@ Tujuan
 * Menyediakan insight bagi tenaga medis di fasilitas lengkap(rumah sakit) dan fasilitas terbatas(klinik) terkait metode prediksi yang paling sesuai untuk kondisi data mereka.
 
 Dataset  
-Heart Disease-Kaggle  
+Heart Failure Prediction Dataset   
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction  
 
 Model yang Dibandingkan  
